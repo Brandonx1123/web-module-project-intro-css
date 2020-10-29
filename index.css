@@ -1,13 +1,16 @@
 * {
     margin:0;
     padding:0;
-    border: 1px solid black;
-    Max-Width:100%;
+   Max-Width:100%;
     font-family: 'Roboto Mono', monospace;
 }
 
 html{
     font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
 }
 
 
@@ -28,6 +31,7 @@ html{
     font-size: 1.4rem;
     border:none;
     text-decoration: none;
+    color: white;
 }
 
 
@@ -44,29 +48,76 @@ html{
     background-color:#FFCD69;
 }
 
-#image1{
+.section-1{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.image1{
 border-radius: 50%;
   margin: 0 auto;
-  width: 25%;
-  display: inline-block;
+  width: 100%;
   }
 
-.uppertext{
-    display: inline-block;
+  .image1div{
+      display: inline-block;
+      width: 19%;
+      margin: 0 auto;
 
+  }
+
+.uppertext {
+    display: inline-block;
+    width: 65%;
+    padding: 4rem;
+    vertical-align: top;
+    text-align: center;
+
+
+
+}
+
+.uppertext p{
+    margin: 2rem 0;
 }
 
 
 h1{
     font-family: 'Chelsea Market', cursive;
-    font-size: 1.9rem;
-    text-align: top;
-    display: inline-block;
+    font-size: 4rem;
 }
 
 .paragraph3{
     background: #DDB9A3;
     color:white;
+    width: 80%;
+    text-align: center;
+    margin: 2.2rem auto;
+
+}
+
+.firewhole{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.image2{
+    width: 100%;
+    
+}
+
+.firepic{
+    width: 25%;
+    margin: 0 auto;
+}
+
+
+.bottom-image{
+    background-image: url("assets/footer_img.jpg");
+    height: 30vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
@@ -78,10 +129,9 @@ h1{
 
 
 
-
-
-
-
+footer{
+    background:#F9E7DC;
+}
 
 
 .plan2button {
