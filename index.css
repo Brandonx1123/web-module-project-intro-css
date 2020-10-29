@@ -1,0 +1,115 @@
+* {
+    margin:0;
+    padding:0;
+    border: 1px solid black;
+    Max-Width:100%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+
+.topnav{
+    width: 80%;
+    margin: 3rem auto;
+    text-align: center;
+    max-width: 120rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.topnav a{
+    display: inline-block;
+    width: 17%;
+    text-align: center;
+    padding: 2rem 0;
+    border-radius: 1.6rem;
+    font-size: 1.4rem;
+    border:none;
+    text-decoration: none;
+}
+
+
+.planbutton {
+    background: .5px #FF764E;
+   }
+
+.learnbutton {
+     background-color: #5ED3EB;
+     margin: 0 15%;
+   }
+
+.getbutton {
+    background-color:#FFCD69;
+}
+
+#image1{
+border-radius: 50%;
+  margin: 0 auto;
+  width: 25%;
+  display: inline-block;
+  }
+
+.uppertext{
+    display: inline-block;
+
+}
+
+
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 1.9rem;
+    text-align: top;
+    display: inline-block;
+}
+
+.paragraph3{
+    background: #DDB9A3;
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.plan2button {
+    background: 1px #FF764E;
+    border-radius: 15%;
+    margin: 0 10%;
+    display:inline-block;
+    color:white;
+    width: 6%;
+    text-align:center;
+}
+
+.learn2button {
+    border-radius: 15%;
+   background-color: #5ED3EB;
+   margin: 0 10%;
+   display: inline-block;
+   color: white;
+   width: 6%;
+   text-align: center;
+}
+
+.get2button {
+    border-radius: 15%;
+    background-color:#FFCD69;
+    display: inline-block;
+    margin: 0% 10%;
+    width: 6%;
+    color:white;
+    text-align: center;
+}
