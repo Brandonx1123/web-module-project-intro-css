@@ -118,48 +118,14 @@ h1{
     background-size:cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    
 }
-
-
-
-
-
-
-
-
-
 
 footer{
     background:#F9E7DC;
 }
-
-
-.plan2button {
-    background: 1px #FF764E;
-    border-radius: 15%;
-    margin: 0 10%;
-    display:inline-block;
-    color:white;
-    width: 6%;
-    text-align:center;
-}
-
-.learn2button {
-    border-radius: 15%;
-   background-color: #5ED3EB;
-   margin: 0 10%;
-   display: inline-block;
-   color: white;
-   width: 6%;
-   text-align: center;
-}
-
-.get2button {
-    border-radius: 15%;
-    background-color:#FFCD69;
-    display: inline-block;
-    margin: 0% 10%;
-    width: 6%;
-    color:white;
-    text-align: center;
+footer .topnav{
+    
+    margin: 0 auto;
+    padding: 3rem;
 }
