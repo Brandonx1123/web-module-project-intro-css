@@ -1,0 +1,131 @@
+* {
+    margin:0;
+    padding:0;
+   Max-Width:100%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+
+.topnav{
+    width: 80%;
+    margin: 3rem auto;
+    text-align: center;
+    max-width: 120rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.topnav a{
+    display: inline-block;
+    width: 17%;
+    text-align: center;
+    padding: 2rem 0;
+    border-radius: 1.6rem;
+    font-size: 1.4rem;
+    border:none;
+    text-decoration: none;
+    color: white;
+}
+
+
+.planbutton {
+    background: .5px #FF764E;
+   }
+
+.learnbutton {
+     background-color: #5ED3EB;
+     margin: 0 15%;
+   }
+
+.getbutton {
+    background-color:#FFCD69;
+}
+
+.section-1{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.image1{
+border-radius: 50%;
+  margin: 0 auto;
+  width: 100%;
+  }
+
+  .image1div{
+      display: inline-block;
+      width: 19%;
+      margin: 0 auto;
+
+  }
+
+.uppertext {
+    display: inline-block;
+    width: 65%;
+    padding: 4rem;
+    vertical-align: top;
+    text-align: center;
+
+
+
+}
+
+.uppertext p{
+    margin: 2rem 0;
+}
+
+
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 4rem;
+}
+
+.paragraph3{
+    background: #DDB9A3;
+    color:white;
+    width: 80%;
+    text-align: center;
+    margin: 2.2rem auto;
+
+}
+
+.firewhole{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.image2{
+    width: 100%;
+    
+}
+
+.firepic{
+    width: 25%;
+    margin: 0 auto;
+}
+
+
+.bottom-image{
+    background-image: url("assets/footer_img.jpg");
+    height: 30vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+footer{
+    background:#F9E7DC;
+}
+footer .topnav{
+    
+    margin: 0 auto;
+    padding: 3rem;
+}
